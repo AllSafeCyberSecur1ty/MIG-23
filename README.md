@@ -33,6 +33,3 @@
 4. Access `localhost:3000` in your browser.<br />
 5. Run `yarn build && yarn serve` for build and serve the static folder.<br />
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
