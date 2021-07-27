@@ -1,23 +1,6 @@
-<h1 align="center">
-Code Challenge - E-commerce with Next.js SSG and Stripe
-</h1>
 
-<p align="center">Mini E-commerce using Next.js Static Site Generator and Stripe Payment API.</p>
 
-<p align="center">
-  <a href="https://github.com/Rocketseat/youtube-challenge-next-stripe/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-challenge-next-stripe?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-challenge-next-stripe?color=%237159c1&logo=mit" alt="License">
-  </a>
-</p>
 
-<hr>
-
-## Participants
-
-| [<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz) |
 | :------------------------------------------------------------------------------------------------------------------------: |
 
 
